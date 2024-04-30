@@ -1,5 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec({file:/Users/ajgarcia/Proyectos/Lanzadera/paradigma-archetypebatch-springboot-hexagonal/target/test-classes/projects/interface-bbdd-example/project/scala_project/}root/bgRunMain, None, None)[0m
-[0m[[0m[31merror[0m] [0m[0mExpected whitespace character[0m
-[0m[[0m[31merror[0m] [0m[0m{file:/Users/ajgarcia/Proyectos/Lanzadera/paradigma-archetypebatch-springboot-hexagonal/target/test-classes/projects/interface-bbdd-example/project/scala_project/}root/bgRunMain[0m
-[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                                 ^[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
